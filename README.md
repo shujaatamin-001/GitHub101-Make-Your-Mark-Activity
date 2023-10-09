@@ -30,7 +30,21 @@ Please feel free to copy any part of this repo for your own uses.
 ## Instructions 
 
 - Clone this repository
-- Make a branch in you
+- Open the repository in your github desktop app
+- Click on branch (top bar)
+- create new branch
+- name the branch an appropriate name
+- now click 'open with visual studio code' on the github app
+- on your visual studio you will make changes in the html (your name ,image , skills)
+- commit and push your changes
+- Merge option will open and you will merge both branches together
+- go to settings in your github cloned 'make-your-mark-activity' repository on your browser
+- click on pages in left side option
+- select root as main, branch as main
+- keep 'deploy from branch' as checked
+- now wait and reload page until you have deploy option on the same pages site you are on
+- click the live website url and you can explore your changed work
+- Happy Merging
 
 Thanks:
 
