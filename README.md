@@ -27,6 +27,11 @@ Please feel free to copy any part of this repo for your own uses.
 
 **[Fly Nerd](https://www.flynerd.pl/)** - I will be happy if you mention **FlyNerd** as an inspiration.
 
+## Instructions 
+
+- Clone this repository
+- Make a branch in you
+
 Thanks:
 
 - **Raleway** - set of free fonts thanks to Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini
